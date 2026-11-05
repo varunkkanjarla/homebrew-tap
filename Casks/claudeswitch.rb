@@ -1,8 +1,6 @@
 cask "claudeswitch" do
-  # Release owner: replace the version and SHA-256 after publishing a signed,
-  # notarized DMG at the URL below. This starter Cask is not installable yet.
   version "1.0.0"
-  sha256 "REPLACE_WITH_SHA256_FROM_RELEASE_DMG"
+  sha256 "cf78f7bcf933c34eb11455b9cfae89e6deda0ae6841e23f420f715bfafe61572"
 
   url "https://github.com/varunkkanjarla/ClaudeSwitch/releases/download/v#{version}/ClaudeSwitch-#{version}.dmg"
   name "ClaudeSwitch"
