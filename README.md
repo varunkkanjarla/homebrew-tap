@@ -10,6 +10,15 @@ Install after the Cask is finalized:
 brew tap varunkkanjarla/tap
 brew install --cask claudeswitch
 ```
+To upgrade
+```bash
+brew upgrade --cask claudeswitch
+```
+
+To uninstall
+```bash
+brew uninstall --cask claudeswitch
+```
 
 Project: https://github.com/varunkkanjarla/ClaudeSwitch  
 Website: https://varunkkanjarla.github.io/ClaudeSwitch/
